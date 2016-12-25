@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">progForce</string>
+    <string name="app_main">Input user name to know more</string>
+    <string name="app_user">Repositories List</string>
+    <string name="app_save">Save</string>
+    <string name="app_brow">Open in browser</string>
+    <string name="app_shar">Saved</string>
+
+</resources>

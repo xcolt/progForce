@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">progForce</string>
+    <string name="app_brow">Відкрити в броузері</string>
+    <string name="app_main">Введіть ім\'я користувача щоб дізнатись більше</string>
+    <string name="app_save">Зберегти</string>
+    <string name="app_shar">Поділитись</string>
+    <string name="app_user">Список збережених</string>
+</resources>
